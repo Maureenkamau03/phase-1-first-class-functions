@@ -1,5 +1,5 @@
 function receivesAFunction(spy) {
-  return spy();
+  spy();
 }
 // function returnsANamedFunction() {
 //   return receivesAFunction();
